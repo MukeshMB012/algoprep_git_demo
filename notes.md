@@ -46,3 +46,9 @@ all the untracked changes
 
 * git status
 1. shows difference between staging and working directory
+
+* git commit -m "commit message"
+1. A snapshot of changes made to the repository. Each commit has a unique ID and a message describing the changes.
+
+* git log
+1. list of commits with user name, email address, date, time.
