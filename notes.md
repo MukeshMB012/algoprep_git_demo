@@ -51,4 +51,14 @@ all the untracked changes
 1. A snapshot of changes made to the repository. Each commit has a unique ID and a message describing the changes.
 
 * git log
-1. list of commits with user name, email address, date, time.
+1. list of commits with user name, email address, date, time will appears.
+2. type q in case you won't find               PS C:\Users\Mukesh\Desktop\Git_demo>
+
+* git checkout (paste the commit code you get from git log)
+1. it will get you back to the situation of the code from where you picked the commit code.
+
+* git branch
+1. list of branches will came
+2. select the branch
+3. type the git checkout + branch you selected
+4. it will lend you to the code of that branch(or say the code of that timeline)
