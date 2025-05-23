@@ -67,3 +67,14 @@ in short-->
 to go back to latest commit -> 'HEAD'
 type git branch -> check your branch name
 git checkout branch-name
+
+
+## Commands to push your changes
+**Setup remote repo**
+* create a repo in github
+* git remote add origin 'remote-repo-name'
+* git branch -M main
+<!-- usuall drill -->
+* git push -u origin main
+<!-- do all three steps when you create repo for the first time. -->
+<!-- only apply 3rd step when the repo is already formed and you did the little changes in the codes -->
